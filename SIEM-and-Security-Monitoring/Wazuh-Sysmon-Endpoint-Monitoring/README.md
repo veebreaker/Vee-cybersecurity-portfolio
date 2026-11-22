@@ -624,6 +624,33 @@ Each screenshot will include a short description explaining what it demonstrates
 
 ![Setting TimeZone and Wazuh Agent Configuration](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20072846.png?raw=true)
 
+Openssh service start, confirmation and firewall rule
+
+![Openssh service start, confirmation and firewall rule](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20074355.png?raw=true)
+
+### Ethernet interface changed to private
+![Ethernet interface changed to private](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20083742.png?raw=true)
+
+![Ethernet interface changed to private](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20084318.png?raw=true) 
+
+
+### SSH connectivity test(Failed & Successful)
+![ SSH connectivity test(Failed & Successful)](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20084722.png?raw=true)
+
+### SSH Brute-force Attacks(Valid & Invalid user)
+![SSH Brute-force Attacks(Valid & Invalid user)](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20090000.png?raw=true)
+
+### OpenSSH event confirmation
+![OpenSSH event confirmation](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-17%20110942.png?raw=true)
+
+### Wazuh logs collection and alert triggers(SSH failed and successful logon,discovery commands and website lookup)
+![Wazuh logs collection and alert triggers(SSH failed and successful logon,discovery commands and website lookup)](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-19%20102400.png?raw=true)
+
+![Wazuh logs collection and alert triggers(SSH failed and successful logon,discovery commands and website lookup)](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-19%20102513.png?raw=true)
+
+![Wazuh logs collection and alert triggers(SSH failed and successful logon,discovery commands and website lookup)](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-19%20102613.png?raw=true)
+
+![Wazuh logs collection and alert triggers(SSH failed and successful logon,discovery commands and website lookup)](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-19%20102645.png?raw=true)
 
 
 **Disclaimer:** This project was conducted in an isolated, controlled virtual lab using systems under my control. The attack simulation was performed for educational and defensive security monitoring purposes.
