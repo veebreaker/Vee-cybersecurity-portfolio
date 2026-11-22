@@ -16,16 +16,13 @@ My journey involves hands-on learning, building practical projects, troubleshoot
 - Linux & Windows Systems
 - SIEM & Security Monitoring
 - Problem-solving and continuous learning
-
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, HTML, CSS, JavaScript (learning & exploring)
 - **Security Tools:** Wazuh, Sysmon, Wireshark
 - **Operating Systems:** Kali Linux, Windows, Ubuntu
 - **Tools & Platforms:** Git, GitHub, Flask, VirtualBox
 
-### 🚀 Projects
 Here, I document my hands-on projects, experiments, security labs, software development projects, troubleshooting experiences, and technical discoveries.
-
 ### 📚 Currently Learning
 - Cybersecurity and SOC operations
 - Python for software development and security automation
