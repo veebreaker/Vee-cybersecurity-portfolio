@@ -617,7 +617,13 @@ Screenshots supporting this project will be added to this section.
 
 Each screenshot will include a short description explaining what it demonstrates and how it relates to the investigation.
 ### Sysmon configuration and confirmation of log collection
-!
+
+![Sysmon configuration and log collection](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-17%20133028.png?raw=true)
+
+### Wazuh Agent Configuration
+
+![Wazuh Agent Configuration]()
+
 
 
 **Disclaimer:** This project was conducted in an isolated, controlled virtual lab using systems under my control. The attack simulation was performed for educational and defensive security monitoring purposes.
