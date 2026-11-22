@@ -620,9 +620,9 @@ Each screenshot will include a short description explaining what it demonstrates
 
 ![Sysmon configuration and log collection](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-17%20133028.png?raw=true)
 
-### Wazuh Agent Configuration
+### Setting TimeZone and Wazuh Agent Configuration
 
-![Wazuh Agent Configuration]()
+![Setting TimeZone and Wazuh Agent Configuration](https://github.com/veebreaker/Vee-cybersecurity-portfolio/blob/main/SIEM-and-Security-Monitoring/Wazuh-Sysmon-Endpoint-Monitoring/Screenshot%202026-11-16%20072846.png?raw=true)
 
 
 
