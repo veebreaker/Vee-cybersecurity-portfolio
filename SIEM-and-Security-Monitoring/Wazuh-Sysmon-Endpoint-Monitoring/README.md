@@ -616,7 +616,8 @@ The next steps I would take to improve this lab include:
 Screenshots supporting this project will be added to this section.
 
 Each screenshot will include a short description explaining what it demonstrates and how it relates to the investigation.
-
+### Sysmon configuration and confirmation of log collection
+!
 
 
 **Disclaimer:** This project was conducted in an isolated, controlled virtual lab using systems under my control. The attack simulation was performed for educational and defensive security monitoring purposes.
